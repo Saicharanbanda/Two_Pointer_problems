@@ -1,1 +1,1 @@
-# Two_Pointer_problems
+# ARIFICIAL Intelligence Project
